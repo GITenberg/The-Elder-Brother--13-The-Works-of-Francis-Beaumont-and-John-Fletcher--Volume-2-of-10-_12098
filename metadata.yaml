@@ -1,5 +1,8 @@
 _repo: The-Elder-Brother--13-The-Works-of-Francis-Beaumont-and-John-Fletcher--Volume-2-of-10-_12098
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Massinger, Philip
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39381
 description: Acts I and V ascribed to Massinger, who probably completed the play after
   Fletcher's death.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12098#The-Elder-Brother--13-The-Works-of-Francis-Beaumont-and-John-Fletcher--Volume-2-of-10-
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
